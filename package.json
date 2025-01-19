@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/ThatCodingBear/Task-Manager/issues"
   },
-  "homepage": "https://github.com/ThatCodingBear/Task-Manager#readme"
+  "homepage": "https://github.com/ThatCodingBear/Task-Manager#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
 }
